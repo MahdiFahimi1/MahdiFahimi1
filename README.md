@@ -9,7 +9,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a lua developer <b>IRAN</b> 」
+    「 I am a backend developer <b>IRAN</b> 」
     <br>
     <br>
   </samp>
