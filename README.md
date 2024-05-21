@@ -9,7 +9,6 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a backend developer <b>IRAN</b> 」
     <br>
     <br>
   </samp>
