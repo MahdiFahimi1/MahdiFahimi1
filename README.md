@@ -3,7 +3,7 @@
   
   # <samp>Hello, World! I'm **!-MF-!**</samp>
   
-  <p>A passionate **Developer** | **Gamer** | **Creator**</p>
+  <p>A passionate **Developer**</p> 
   
   ---
   
@@ -19,25 +19,16 @@
   ---
 </div>
 
-## ✨ About Me
+## 💡 About Me
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <p>
-        I'm **Mahdi Fahimi**, a dedicated developer focusing on bringing creative ideas to life through code. I enjoy tackling complex challenges and constantly expanding my skill set. Currently diving deeper into **game development** with **UE5** and refining my **backend logic** with **C++** and **Python**.
-      </p>
-      <ul>
-        <li>🔭 &emsp; I'm currently working on exciting **game development** projects.</li>
-        <li>🌱 &emsp; I'm always learning and improving my skills in **system design** and **optimization**.</li>
-        <li>🎮 &emsp; Besides coding, I love **gaming** and exploring new technologies.</li>
-      </ul>
-    </td>
-    <td width="40%" align="right">
-      <img align="right" width="100%" src="https://i.imgur.com/G20W17v.gif" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
+<p>
+  I'm **Mahdi Fahimi**, a dedicated developer focusing on bringing creative ideas to life through code. I enjoy tackling complex challenges and constantly expanding my skill set. I primarily focus on **backend logic** and system design using **C++** and **Python**.
+</p>
+<ul>
+  <li>🔭 &emsp; I'm currently working on exciting **software development** projects.</li>
+  <li>🌱 &emsp; I'm always learning and improving my skills in **system design** and **optimization**.</li>
+  <li>🛠️ &emsp; My current interests include **Game Development (UE5)** and **Low-Level Programming**.</li>
+</ul>
 
 ---
 
