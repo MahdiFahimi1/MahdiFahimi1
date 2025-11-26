@@ -1,4 +1,5 @@
 <div align="center">
+  
   # Hello, World! I'm !-MF-!
   
   ---
@@ -15,19 +16,6 @@
   ---
 </div>
 
-## 💡 About Me
-
-<p>
-  Mahdi Fahimi, a developer focused on robust **Backend Logic** and **System Optimization**. I enjoy tackling complex challenges and building efficient solutions, primarily utilizing C++ and Python.
-</p>
-<ul>
-  <li>**Focus:** Backend development and high-performance system design.</li>
-  <li>**Current Interest:** Expanding skills in **Unreal Engine 5 (UE5)** and **Low-Level Programming**.</li>
-  <li>**Always Learning:** Optimization techniques and new architectural patterns.</li>
-</ul>
-
----
-
 ## 💻 My Toolbox
 
 <div align="center">
@@ -36,7 +24,7 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <br>
