@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRvbG51aWVmdWp1azg5dXRwOW42bDR1bmJ2cWVqZzZjdms4OXBtaCZlcD12MV9pbnRlcm5hbF9naWZfY2F0YWxvZyZjdD1n/qgQUl7Yn9sP9Wn5rG5/giphy.gif" width="150" alt="Animated Welcome">
-  
-  # <samp>Hello, World! I'm **!-MF-!**</samp>
-  
-  <p>A passionate **Developer**</p> 
+  # Hello, World! I'm !-MF-!
   
   ---
   
@@ -22,12 +18,12 @@
 ## 💡 About Me
 
 <p>
-  I'm **Mahdi Fahimi**, a dedicated developer focusing on bringing creative ideas to life through code. I enjoy tackling complex challenges and constantly expanding my skill set. I primarily focus on **backend logic** and system design using **C++** and **Python**.
+  Mahdi Fahimi, a developer focused on robust **Backend Logic** and **System Optimization**. I enjoy tackling complex challenges and building efficient solutions, primarily utilizing C++ and Python.
 </p>
 <ul>
-  <li>🔭 &emsp; I'm currently working on exciting **software development** projects.</li>
-  <li>🌱 &emsp; I'm always learning and improving my skills in **system design** and **optimization**.</li>
-  <li>🛠️ &emsp; My current interests include **Game Development (UE5)** and **Low-Level Programming**.</li>
+  <li>**Focus:** Backend development and high-performance system design.</li>
+  <li>**Current Interest:** Expanding skills in **Unreal Engine 5 (UE5)** and **Low-Level Programming**.</li>
+  <li>**Always Learning:** Optimization techniques and new architectural patterns.</li>
 </ul>
 
 ---
@@ -35,7 +31,7 @@
 ## 💻 My Toolbox
 
 <div align="center">
-  <p>Languages & Frameworks I use:</p>
+  <p>Languages & Technologies I use:</p>
   <p>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
